@@ -1,0 +1,205 @@
+1676131924831	geckodriver	INFO	Listening on 127.0.0.1:58805
+1676131925283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58806" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofilelQ1NuM"
+WebDriver BiDi listening on ws://127.0.0.1:58806
+2023-02-11 11:12:08.002 plugin-container[24053:1400942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:08.002 plugin-container[24053:1400942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 11:12:08.082 plugin-container[24053:1400942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:08.082 plugin-container[24053:1400942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 11:12:08.082 plugin-container[24053:1400979] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:08.082 plugin-container[24053:1400979] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58806/devtools/browser/4e8a8f45-2d29-499e-b204-f8f8b63d3479
+1676131967074	geckodriver	INFO	Listening on 127.0.0.1:58886
+1676131967591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58887" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofileG8ANn3"
+1676131967990	Marionette	INFO	Marionette enabled
+1676131968093	Marionette	INFO	Listening on port 58893
+Read port: 58893
+WebDriver BiDi listening on ws://127.0.0.1:58887
+2023-02-11 11:12:48.166 plugin-container[24076:1401757] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:48.166 plugin-container[24076:1401757] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676131968188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-02-11 11:12:48.213 plugin-container[24076:1401757] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:48.213 plugin-container[24076:1401757] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 11:12:48.214 plugin-container[24076:1401755] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 11:12:48.214 plugin-container[24076:1401755] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofileG8ANn3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58887/devtools/browser/a40d6794-c976-4325-b886-2d87cbc31c74
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.3, line 2: TypeError: this.$element is null
+1676178292562	Marionette	INFO	Stopped listening on port 58893
+1678643562026	geckodriver	INFO	Listening on 127.0.0.1:59248
+1678643562441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59249" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofile2dRfp4"
+2023-03-12 13:52:45.100 plugin-container[82267:3254947] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-12 13:52:45.100 plugin-container[82267:3254947] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59249
+2023-03-12 13:52:45.204 plugin-container[82267:3254947] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-12 13:52:45.204 plugin-container[82267:3254947] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-12 13:52:45.204 plugin-container[82267:3254950] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-12 13:52:45.204 plugin-container[82267:3254950] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:59249/devtools/browser/4e650d5a-743a-47fd-8005-152916ab9495
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679969096690	geckodriver	INFO	Listening on 127.0.0.1:62840
+1679969097207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62841" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofile8XJxTY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679969097608	Marionette	INFO	Marionette enabled
+2023-03-27 22:04:57.741 plugin-container[34201:4272543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:04:57.742 plugin-container[34201:4272543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679969097772	Marionette	INFO	Listening on port 62899
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-27 22:04:57.835 plugin-container[34201:4272543] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:04:57.835 plugin-container[34201:4272543] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-27 22:04:57.835 plugin-container[34201:4272545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:04:57.835 plugin-container[34201:4272545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62899
+WebDriver BiDi listening on ws://127.0.0.1:62841
+1679969097903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofile8XJxTY/search.json.mozlz4", (void 0)))
+2023-03-28 02:04:58.916 plugin-container[34214:4272791] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:04:58.917 plugin-container[34214:4272791] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:04:58.919 plugin-container[34214:4272791] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:04:58.919 plugin-container[34214:4272791] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:04:58.919 plugin-container[34214:4272790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:04:58.919 plugin-container[34214:4272790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:62841/devtools/browser/495c3e01-6d5f-4ef0-a378-9efec37443f1
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.f1678638d15dbbbcbdd1.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.f1678638d15dbbbcbdd1.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2023-03-28 02:05:02.971 plugin-container[34225:4273041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:02.971 plugin-container[34225:4273041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:02.973 plugin-container[34225:4273041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:02.973 plugin-container[34225:4273041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:02.973 plugin-container[34225:4273044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:02.973 plugin-container[34225:4273044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679969125548	geckodriver	INFO	Listening on 127.0.0.1:63103
+1679969126070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63104" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofileHgCmOr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679969126390	Marionette	INFO	Marionette enabled
+2023-03-27 22:05:26.481 plugin-container[34248:4273492] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:05:26.481 plugin-container[34248:4273492] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-27 22:05:26.483 plugin-container[34248:4273492] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:05:26.483 plugin-container[34248:4273492] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-27 22:05:26.484 plugin-container[34248:4273490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-27 22:05:26.484 plugin-container[34248:4273490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679969126530	Marionette	INFO	Listening on port 63113
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:63104
+Read port: 63113
+1679969126633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/81/l1fdng_j5ln1_1z0sgnx2c4h0000gn/T/rust_mozprofileHgCmOr/search.json.mozlz4", (void 0)))
+2023-03-28 02:05:27.527 plugin-container[34254:4273664] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:27.527 plugin-container[34254:4273664] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:27.529 plugin-container[34254:4273664] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:27.529 plugin-container[34254:4273664] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:27.529 plugin-container[34254:4273663] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:27.529 plugin-container[34254:4273663] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:63104/devtools/browser/31636599-f7f1-4b95-9f56-b26e200f4152
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.f1678638d15dbbbcbdd1.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2023-03-28 02:05:32.238 plugin-container[34261:4273896] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:32.238 plugin-container[34261:4273896] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:32.239 plugin-container[34261:4273896] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:32.239 plugin-container[34261:4273896] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-28 02:05:32.240 plugin-container[34261:4273902] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-28 02:05:32.240 plugin-container[34261:4273902] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.f1678638d15dbbbcbdd1.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/pap.f1678638d15dbbbcbdd1.js, line 2: Error: UIS (/api/uisprime/track)replied with HTTP status code: 429
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1679969504561	Marionette	INFO	Stopped listening on port 63113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1679969507061	Marionette	INFO	Stopped listening on port 62899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
